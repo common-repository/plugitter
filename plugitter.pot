@@ -1,0 +1,91 @@
+# Copyright (C) 2014 Plugitter
+# This file is distributed under the same license as the Plugitter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugitter 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/ct-ranking-widget\n"
+"POT-Creation-Date: 2014-09-04 04:39:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: widget-plugin.php:17
+msgid "Twitter Ranking"
+msgstr ""
+
+#: widget-plugin.php:35
+msgid "Widget Title"
+msgstr ""
+
+#: widget-plugin.php:40
+msgid "Twitter UserName:"
+msgstr ""
+
+#: widget-plugin.php:45
+msgid "How Many:"
+msgstr ""
+
+#: widget-plugin.php:79
+msgid "Select all"
+msgstr ""
+
+#: widget-plugin.php:80
+msgid "NO DATA"
+msgstr ""
+
+#: widget-plugin.php:81
+msgid "{0} does not appear in the top {1}"
+msgstr ""
+
+#: widget-plugin.php:82
+msgid ""
+"Congratulations <img class=\"ct_rank_img\" src =\"{0}\" width=32 height=32 "
+"style=\"text-align: center; border-radius: 50%;\"><a href=\"http://twitter."
+"com/\" >@{1}</a>!<br/>You ranked #{2} at {3}'s ranking"
+msgstr ""
+
+#: widget-plugin.php:102
+msgid "Picture"
+msgstr ""
+
+#: widget-plugin.php:103
+msgid "Screen Name"
+msgstr ""
+
+#: widget-plugin.php:104
+msgid "Followers"
+msgstr ""
+
+#: widget-plugin.php:105
+msgid "Activity"
+msgstr ""
+
+#: widget-plugin.php:106
+msgid "Tweets"
+msgstr ""
+
+#: widget-plugin.php:114
+msgid "view detailed table"
+msgstr ""
+
+#. #-#-#-#-#  ct-ranking-widget.pot (Plugitter 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  ct-ranking-widget.pot (Plugitter 1.0)  #-#-#-#-#
+#. Author of the plugin/theme
+msgid "Plugitter"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.datatendencias.com.ar/plugitter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Widget showing your Twitter followers ranking"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.twitter.com/plugitter"
+msgstr ""

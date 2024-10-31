@@ -1,0 +1,95 @@
+# Copyright (C) 2014 Plugitter
+# This file is distributed under the same license as the Plugitter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugitter 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/ct-ranking-widget\n"
+"POT-Creation-Date: 2014-09-04 04:39:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-09-04 01:41-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: widget-plugin.php:17
+msgid "Twitter Ranking"
+msgstr "Ranking Twitter"
+
+#: widget-plugin.php:35
+msgid "Widget Title"
+msgstr "Título del Widget"
+
+#: widget-plugin.php:40
+msgid "Twitter UserName:"
+msgstr "Usuario Twitter:"
+
+#: widget-plugin.php:45
+msgid "How Many:"
+msgstr "Cuantos:"
+
+#: widget-plugin.php:79
+msgid "Select all"
+msgstr "Seleccionar todas"
+
+#: widget-plugin.php:80
+msgid "NO DATA"
+msgstr "NO HAY DATOS"
+
+#: widget-plugin.php:81
+msgid "{0} does not appear in the top {1}"
+msgstr "{0} no aparece en el top {1}"
+
+#: widget-plugin.php:82
+msgid ""
+"Congratulations <img class=\"ct_rank_img\" src =\"{0}\" width=32 height=32 "
+"style=\"text-align: center; border-radius: 50%;\"><a href=\"http://twitter."
+"com/\" >@{1}</a>!<br/>You ranked #{2} at {3}'s ranking"
+msgstr ""
+"¡Felicitaciones <img class=\"ct_rank_img\" src =\"{0}\" width=32 height=32 "
+"style=\"text-align: center; border-radius: 50%;\"><a href=\"http://twitter."
+"com/\" >@{1}</a>!<br/>Apareces #{2} en el ranking de {3}"
+
+#: widget-plugin.php:102
+msgid "Picture"
+msgstr "Foto"
+
+#: widget-plugin.php:103
+msgid "Screen Name"
+msgstr "Nombre"
+
+#: widget-plugin.php:104
+msgid "Followers"
+msgstr "Seguidores"
+
+#: widget-plugin.php:105
+msgid "Activity"
+msgstr "Actividad"
+
+#: widget-plugin.php:106
+msgid "Tweets"
+msgstr "Tweets"
+
+#: widget-plugin.php:114
+msgid "view detailed table"
+msgstr "ver tabla detallada"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "Plugitter"
+msgstr "Plugitter"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.datatendencias.com.ar/plugitter"
+msgstr "http://www.datatendencias.com.ar/plugitter"
+
+#. Description of the plugin/theme
+msgid "Widget showing your Twitter followers ranking"
+msgstr "Widget que muestra un ranking de tus seguidores en Twitter"
+
+#. Author URI of the plugin/theme
+msgid "http://www.twitter.com/plugitter"
+msgstr "http://www.twitter.com/plugitter"
